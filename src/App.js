@@ -10,7 +10,7 @@ function App() {
   
   return (
     <div className="App">
-      <h1>This is contries details</h1>
+      <h1>Countries details</h1>
      
 
     </div>
